@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/drawable/back_btn.xml" value="0.2405" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/drawable/round_back_white10_20.xml" value="0.224" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/drawable/round_border.xml" value="0.2545" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/layout/activity_account.xml" value="0.25769927536231885" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/layout/activity_login.xml" value="0.25769927536231885" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/layout/activity_operating_mode.xml" value="0.25263157894736843" />
+        <entry key="..\:/Lasith/Docs/Closure/Closure/Mobile App/app/src/main/res/layout/activity_times_set.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

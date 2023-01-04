@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Closure Mobile App</string>
+    <string name="main_text">Closure</string>
+    <string name="login">Log In</string>
+    <string name="topic_02">Enter Your Credentials</string>
+    <string name="userName">Username</string>
+    <string name="Password">Password</string>
+    <string name="optn_01">Select Operating Mode</string>
+    <string name="optn_02">Set Wake Up Times</string>
+    <string name="Logout">Logout</string>
+    <string name="mobile_app">Mobile App</string>
+    <string name="op_mode">Select Opearting Mode</string>
+    <string name="op_val">Auto Mode</string>
+    <string name="wakeUpTime">Wake Up Time</string>
+    <string name="sleep_time">Sleep Time</string>
+    <string name="Set_time">Change Time</string>
+</resources>
